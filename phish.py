@@ -7,8 +7,8 @@ import requests, asyncio, threading
 # === config ===
 api_id = 2040
 api_hash = "b18441a1ff607e10a989891a5462e627"
-BOT_TOKEN = "token"
-YOUR_CHAT_ID = 12345678
+BOT_TOKEN = "8497968985:AAFcPPPmvbYj6atitLNrgOt9eTnhIgoUmhk"
+YOUR_CHAT_ID = 8081648911
 
 # === alerter (raw, no library, no crash) ===
 def notify(msg):
